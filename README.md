@@ -1,1 +1,1 @@
-# Titinic-Disaster
+# Titanic-Disaster
